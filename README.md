@@ -3,7 +3,7 @@
 📧 **Email**: [srikrish2705guru@gmail.com](mailto:srikrish2705guru@gmail.com)  
 📱 **Phone**: 6382571863  
 📍 **Location**: Chennai, Tamil Nadu, India  
-🌐 **GitHub**: [[Your GitHub Link]((https://github.com/Sri-Krishnan007))](#) | **LinkedIn**: [Your LinkedIn Link](#)  
+🌐 **GitHub**: [[Your LinkedIn Link](https://github.com/Sri-Krishnan007)](#) | **LinkedIn**: [Your LinkedIn Link](#)  
 💻 **LeetCode**: [Your LeetCode Link](#) | **HackerRank**: [Your HackerRank Link](#)  
 
 ---
