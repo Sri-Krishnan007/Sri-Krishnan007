@@ -1,15 +1,18 @@
+
+---
+
 # 👨‍💻 Sri Krishnan G  
-**Aspiring Software Engineer**  
+**Aspiring Data Analyst**  
 📧 **Email**: [srikrish2705guru@gmail.com](mailto:srikrish2705guru@gmail.com)  
 📱 **Phone**: 6382571863  
 📍 **Location**: Chennai, Tamil Nadu, India  
 🌐  [**GitHub** ](https://github.com/Sri-Krishnan007) | [**LinkedIn** ](https://www.linkedin.com/in/sri-krishnan-g-a9b1b1273/)  
-💻  [**LeetCode**](https://leetcode.com/u/sri-krishnan007/) |  [**HackerRank**](https://www.hackerrank.com/profile/srikrish2705guru)
+💻  [**LeetCode**](https://leetcode.com/u/sri-krishnan007/) |  [**HackerRank**](https://www.hackerrank.com/profile/srikrish2705guru)  
 
 ---
 
-## 🎯 **About Me**  
-🚀 Motivated and detail-oriented **Software Engineering Student** with a strong foundation in programming, web development, and data analysis. Passionate about designing **efficient**, **scalable**, and **user-friendly solutions**.  
+## 🎯 **Profile**  
+🔍 **Data Analyst** with a solid foundation in data science, analytics, and statistical modeling. Skilled in identifying trends, building predictive models, and transforming complex data into actionable insights using modern tools and techniques.  
 
 ---
 
@@ -22,65 +25,83 @@
 
 ---
 
-## 🛠️ **Skills**  
-### 🌐 Web Development  
-- HTML, CSS, JavaScript, Angular, React, Node.js  
+## 🛠️ **Skills & Technologies**  
 
-### 💻 Programming  
-- Python (pandas, Flask, Django), SQL (MySQL, MongoDB)  
+### **Data Analytics & Visualization**  
+- **Tools:** Power BI, Tableau, Excel  
+- **Languages:** Python (pandas, NumPy, matplotlib, seaborn), SQL (MySQL, MongoDB)  
 
-### 🌟 Soft Skills  
+### **Data Science & Machine Learning**  
+- Data Cleaning, Exploratory Data Analysis (EDA), Machine Learning Models (Scikit-Learn)  
+
+### **Programming**  
+- Python, SQL, Java, C  
+
+### **Soft Skills**  
 - Problem-Solving, Communication, Time Management, Decision-Making  
 
 ---
 
 ## 📌 **Professional Experience**  
-- 🧑‍💼 **IoT & ML Promotion Intern** | **Bolt IoT**  
-  *July 2023 – September 2023*  
-  - Promoted IoT and machine learning technologies effectively to enhance outreach.  
 
-- 🛠️ **Introduction to Project IDX** | **Project IDX, Bolt IoT**  
-  *August 3, 2024*  
+- **Data Science Intern** | **Prodigy InfoTech**  
+  *January 2024 – February 2024*  
+  - Conducted data analysis and created predictive models using machine learning.  
+  - Presented data-driven solutions to key stakeholders.  
+
+- **IoT & ML Promotion Intern** | **Bolt IoT**  
+  *July 2023 – September 2023*  
 
 ---
 
-## 🏆 **Achievements & Certificates**  
-- 🥈 **Runner-Up**, Poster Presentation | **Computing Research Day '24**  
-- 🏅 **Hack-O-Holics**, St. Joseph's College Chennai | *24-Hour Hackathon Participant*  
-- 🥈 **Internal College Runner**, **Smart India Hackathon**  
-- 📜 **Digital Marketing** | MyCaptain (*January 2023 – February 2023*)  
-- 📜 **Data Analytics with Python** | NPTEL (IIT Roorkee) (*January 2024 – April 2024*)  
-- 📜 **Career Essentials in Generative AI** | Microsoft and LinkedIn (*January 2024*)  
+## 📜 **Courses & Certifications**  
+
+- **Data Analytics with Python** | NPTEL (IIT Roorkee) (*January 2024 – April 2024*)  
+- **Career Essentials in Generative AI** | Microsoft and LinkedIn (*January 2024*)  
+- **Digital Marketing** | MyCaptain (*January 2023 – February 2023*)  
+
+---
+
+## 🏆 **Achievements & Awards**  
+
+- **Runner-Up**, Poster Presentation | **Computing Research Day '24**  
+- **Hack-O-Holics**, St. Joseph's College Chennai | *24-Hour Hackathon Participant*  
+- **Smart India Hackathon**, **Internal College Runner-Up**  
 
 ---
 
 ## 🔨 **Projects**  
-### 🩺 **Marunthagam**  
-- Built a **medical chatbot** using **ML**, **NLP**, **Flask**, **HTML**, **JavaScript**, and **CSS**.  
-- Assists with **personalized prescriptions**, analyzes symptoms, and provides recommendations through a **responsive web interface**.  
+
+### 📊 **Marunthagam**  
+- Developed a **medical chatbot** using **ML**, **NLP**, and **Flask**.  
+- Implemented advanced **data models** for symptom analysis, personalized prescriptions, and medication recommendations.  
 
 ### 🛒 **GroceryGo**  
-- Developed an **e-commerce platform** using **Django**, **Bootstrap**, and **MySQL**.  
-- Features an **admin panel** for managing product inventory (CRUD operations) and a **responsive user interface**.  
+- Built an **e-commerce platform** using **Django** and **MySQL**.  
+- Enabled **data-driven sales analysis** and **inventory management**.  
 
 ### 💙 **Act4Good**  
-- Created a **dynamic platform** using **MEAN STACK** to support NGO activities.  
-- Enabled users to post, delete, and like NGO initiatives, with an **admin page** for secure content management.  
+- Created a **dynamic platform** using **MEAN STACK**.  
+- Incorporated **data tracking dashboards** for NGO initiatives.  
 
 ---
 
-## 🌟 **Extracurricular Activities**  
+## 🌟 **Field of Interests**  
+
+- 📊 Data Science & Analytics  
+- 🗄️ Database Management  
+- 🔍 Process Optimization  
+- 🧠 Machine Learning  
+
+---
+
+## 🎯 **Extracurricular Activities**  
+
 🏏 **Member**, CIT Cricket Club  
 - Represented **Coimbatore Institute of Technology** in inter-college tournaments, fostering teamwork and strategic thinking.  
 
 ---
 
-## 🎯 **Interests**  
-- 🌐 Web Development  
-- 📊 Data Science and Analytics  
-- 🗄️ Database Management  
-- 🔍 Problem Solving & Process Optimization  
+🌟 *“Let’s connect and transform data into impactful business insights!”*  
 
 ---
-
-🌟 *“Let’s connect and collaborate to build innovative and impactful solutions!”*
