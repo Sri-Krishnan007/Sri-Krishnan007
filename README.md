@@ -25,14 +25,15 @@
 
 ---
 
-## 🛠️ Key Skills
+## 🛠️ **Key Skills**
 
-Data Science & Analytics: Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, SciPy, Scikit-learn, BeautifulSoup)
-Data Visualization: Power BI
-Databases: MySQL, MongoDB
-Web Development: HTML, CSS, JavaScript, Django, Flask
-Programming Languages: Java, C
-Soft Skills: Problem-Solving, Communication, Time Management, Decision Making
+- **Data Science & Analytics:** Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, SciPy, Scikit-learn, BeautifulSoup)  
+- **Data Visualization:** Power BI  
+- **Databases:** MySQL, MongoDB  
+- **Web Development:** HTML, CSS, JavaScript, Django, Flask  
+- **Programming Languages:** Java, C  
+- **Soft Skills:** Problem-Solving, Communication, Time Management, Decision Making  
+
 ---
 
 ## 📌 **Professional Experience**  
