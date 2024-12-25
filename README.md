@@ -1,11 +1,13 @@
----
-## 👨‍💻 Sri Krishnan G  
+
+# 👨‍💻 **Sri Krishnan G**  
 **Aspiring Data Analyst**  
-📧 **Email**: [srikrish2705guru@gmail.com](mailto:srikrish2705guru@gmail.com)  
-📱 **Phone**: 6382571863  
-📍 **Location**: Chennai, Tamil Nadu, India  
-🌐  [**GitHub** ](https://github.com/Sri-Krishnan007) | [**LinkedIn** ](https://www.linkedin.com/in/sri-krishnan-g-a9b1b1273/)  
-💻  [**LeetCode**](https://leetcode.com/u/sri-krishnan007/) |  [**HackerRank**](https://www.hackerrank.com/profile/srikrish2705guru)  
+
+📧 **Email:** [srikrish2705guru@gmail.com](mailto:srikrish2705guru@gmail.com)  
+📱 **Phone:** 6382571863  
+📍 **Location:** Chennai, Tamil Nadu, India  
+
+🌐 [**GitHub**](https://github.com/Sri-Krishnan007) | [**LinkedIn**](https://www.linkedin.com/in/sri-krishnan-g-a9b1b1273/)  
+💻 [**LeetCode**](https://leetcode.com/u/sri-krishnan007/) | [**HackerRank**](https://www.hackerrank.com/profile/srikrish2705guru)  
 
 ---
 
