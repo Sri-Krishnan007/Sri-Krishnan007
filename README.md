@@ -1,7 +1,5 @@
-
 ---
-
-# 👨‍💻 Sri Krishnan G  
+## 👨‍💻 Sri Krishnan G  
 **Aspiring Data Analyst**  
 📧 **Email**: [srikrish2705guru@gmail.com](mailto:srikrish2705guru@gmail.com)  
 📱 **Phone**: 6382571863  
@@ -12,7 +10,7 @@
 ---
 
 ## 🎯 **Profile**  
-🔍 **Data Analyst** with a solid foundation in data science, analytics, and statistical modeling. Skilled in identifying trends, building predictive models, and transforming complex data into actionable insights using modern tools and techniques.  
+🔍 **Aspiring Data Analyst**with a solid foundation in Data Science, specializing in Data Visualization, Statistical Analysis, and Predictive Modeling. Proficient in Python, SQL, and Power BI, with experience turning data into actionable insights. 
 
 ---
 
@@ -25,21 +23,14 @@
 
 ---
 
-## 🛠️ **Skills & Technologies**  
+## 🛠️ Key Skills
 
-### **Data Analytics & Visualization**  
-- **Tools:** Power BI, Tableau, Excel  
-- **Languages:** Python (pandas, NumPy, matplotlib, seaborn), SQL (MySQL, MongoDB)  
-
-### **Data Science & Machine Learning**  
-- Data Cleaning, Exploratory Data Analysis (EDA), Machine Learning Models (Scikit-Learn)  
-
-### **Programming**  
-- Python, SQL, Java, C  
-
-### **Soft Skills**  
-- Problem-Solving, Communication, Time Management, Decision-Making  
-
+Data Science & Analytics: Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, SciPy, Scikit-learn, BeautifulSoup)
+Data Visualization: Power BI
+Databases: MySQL, MongoDB
+Web Development: HTML, CSS, JavaScript, Django, Flask
+Programming Languages: Java, C
+Soft Skills: Problem-Solving, Communication, Time Management, Decision Making
 ---
 
 ## 📌 **Professional Experience**  
@@ -65,35 +56,22 @@
 ## 🏆 **Achievements & Awards**  
 
 - **Runner-Up**, Poster Presentation | **Computing Research Day '24**  
-- **Hack-O-Holics**, St. Joseph's College Chennai | *24-Hour Hackathon Participant*  
+- **Hack-O-Holics**, St. Joseph's College Chennai | *24-Hour Hackathon Participant* | 2nd Round
 - **Smart India Hackathon**, **Internal College Runner-Up**  
 
 ---
 
-## 🔨 **Projects**  
+## 📊 Projects
 
-### 📊 **Marunthagam**  
-- Developed a **medical chatbot** using **ML**, **NLP**, and **Flask**.  
-- Implemented advanced **data models** for symptom analysis, personalized prescriptions, and medication recommendations.  
+**🚀 HR-WorkForce-Analysis**
+Analyzed employee attrition and demographic trends, leading to a 15% improvement in retention strategies.
 
-### 🛒 **GroceryGo**  
-- Built an **e-commerce platform** using **Django** and **MySQL**.  
-- Enabled **data-driven sales analysis** and **inventory management**.  
+**💻 Marunthagam**
+Developed a Medical Chatbot using ML, NLP, Flask, HTML, JavaScript, CSS, and MySQL, reducing prescription errors by 20%.
 
-### 💙 **Act4Good**  
-- Created a **dynamic platform** using **MEAN STACK**.  
-- Incorporated **data tracking dashboards** for NGO initiatives.  
+**📈 Unemploylytics**
+Analyzed unemployment data using clustering, regression, and PCA, achieving 85% accuracy in trend prediction.
 
----
-
-## 🌟 **Field of Interests**  
-
-- 📊 Data Science & Analytics  
-- 🗄️ Database Management  
-- 🔍 Process Optimization  
-- 🧠 Machine Learning  
-
----
 
 ## 🎯 **Extracurricular Activities**  
 
