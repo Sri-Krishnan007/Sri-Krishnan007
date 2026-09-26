@@ -129,18 +129,6 @@ I specialize in architecting **Generative AI & Agentic workflows (RAG, Multi-LLM
 
 ---
 
-## 📊 GitHub & Coding Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sri-Krishnan007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sri Krishnan's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sri-Krishnan007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sri-Krishnan007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 <div align="center">
   <h3>🤝 Let's Collaborate & Build!</h3>
